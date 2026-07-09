@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Open Science |</title><link>https://example.com/tags/open-science/</link><atom:link href="https://example.com/tags/open-science/index.xml" rel="self" type="application/rss+xml"/><description>Open Science</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu_eee4a95885829ab2.png</url><title>Open Science</title><link>https://example.com/tags/open-science/</link></image><item><title>⚡️ Turn Jupyter Notebooks into Blog Posts</title><link>https://example.com/blog/notebook-onboarding/</link><pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate><guid>https://example.com/blog/notebook-onboarding/</guid><description>&lt;p&gt;As a researcher or data scientist, your work often lives in Jupyter Notebooks. But sharing those insights effectively usually means taking screenshots, messy copy-pasting, or exporting to PDF.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Open Science |</title><link>https://chuwenxu.github.io/academic-cv/public/tags/open-science/</link><atom:link href="https://chuwenxu.github.io/academic-cv/public/tags/open-science/index.xml" rel="self" type="application/rss+xml"/><description>Open Science</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate><image><url>https://chuwenxu.github.io/academic-cv/public/media/icon_hu_eee4a95885829ab2.png</url><title>Open Science</title><link>https://chuwenxu.github.io/academic-cv/public/tags/open-science/</link></image><item><title>⚡️ Turn Jupyter Notebooks into Blog Posts</title><link>https://chuwenxu.github.io/academic-cv/public/blog/notebook-onboarding/</link><pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate><guid>https://chuwenxu.github.io/academic-cv/public/blog/notebook-onboarding/</guid><description>&lt;p&gt;As a researcher or data scientist, your work often lives in Jupyter Notebooks. But sharing those insights effectively usually means taking screenshots, messy copy-pasting, or exporting to PDF.&lt;/p&gt;
 &lt;p&gt;Hugo Blox changes that. With the &lt;code&gt;{{&amp;lt; notebook &amp;gt;}}&lt;/code&gt; shortcode, you can render your actual &lt;code&gt;.ipynb&lt;/code&gt; files directly as beautiful, interactive blog posts or project pages. Keep your code, outputs, and narrative in one place.&lt;/p&gt;
 &lt;details class="print:hidden xl:hidden" open&gt;
 &lt;summary&gt;Table of Contents&lt;/summary&gt;
@@ -39,7 +39,7 @@ data-callout-metadata=""&gt;
 &lt;p class="hb-notebook-title"&gt;Launch Readiness Analysis&lt;/p&gt;
 &lt;p class="hb-notebook-subtitle"&gt;Python · Kernel: Python 3 · nbformat 4.5 · 6 cells&lt;/p&gt;
 &lt;/div&gt;
-&lt;a class="hb-notebook-download" href="https://example.com/blog/notebook-onboarding/hugoblox-onboarding.ipynb" download&gt;
+&lt;a class="hb-notebook-download" href="https://chuwenxu.github.io/academic-cv/public/blog/notebook-onboarding/hugoblox-onboarding.ipynb" download&gt;
 &lt;svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3 16.5v2.25A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75V16.5M16.5 12L12 16.5m0 0L7.5 12m4.5 4.5V3"/&gt;&lt;/svg&gt;
 &lt;span&gt;Download notebook&lt;/span&gt;
 &lt;/a&gt;
@@ -212,7 +212,7 @@ data-callout-metadata=""&gt;
 or check the
 .&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Happy researching! 🚀&lt;/p&gt;</description></item><item><title>Create Beautiful Presentations with Markdown</title><link>https://example.com/events/example/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>https://example.com/events/example/</guid><description>&lt;h2 id="-why-markdown-slides"&gt;🎯 Why Markdown Slides?&lt;/h2&gt;
+&lt;p&gt;Happy researching! 🚀&lt;/p&gt;</description></item><item><title>Create Beautiful Presentations with Markdown</title><link>https://chuwenxu.github.io/academic-cv/public/events/example/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>https://chuwenxu.github.io/academic-cv/public/events/example/</guid><description>&lt;h2 id="-why-markdown-slides"&gt;🎯 Why Markdown Slides?&lt;/h2&gt;
 &lt;div class="callout flex px-4 py-3 mb-6 rounded-md border-l-4 bg-green-100 dark:bg-green-900 border-green-500"
 data-callout="success"
 data-callout-metadata=""&gt;
@@ -460,7 +460,7 @@ data-callout-metadata=""&gt;
 &lt;div class="text-left"&gt;
 &lt;a
 id="button-7519dfcc27cf03dd985a63a0b9a6155b"
-href="https://example.com/slides/example/"
+href="https://chuwenxu.github.io/academic-cv/public/slides/example/"
 target="_blank"
 rel="noopener"
 class="inline-flex items-center gap-2 font-medium no-underline transition-all duration-300 ease-out transform-gpu focus:outline-none focus:ring-4 focus:ring-offset-2 focus:ring-offset-white dark:focus:ring-offset-zinc-900 disabled:opacity-50 disabled:cursor-not-allowed disabled:pointer-events-none bg-transparent text-primary-600 dark:text-primary-400 hover:bg-primary-50 dark:hover:bg-primary-950/50 active:bg-primary-100 dark:active:bg-primary-950 hover:scale-105 active:scale-95 focus:ring-primary-500/50 px-4 py-2 text-base rounded-lg"

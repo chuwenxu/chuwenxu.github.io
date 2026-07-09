@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo Blox |</title><link>https://example.com/tags/hugo-blox/</link><atom:link href="https://example.com/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml"/><description>Hugo Blox</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 Sep 2025 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu_eee4a95885829ab2.png</url><title>Hugo Blox</title><link>https://example.com/tags/hugo-blox/</link></image><item><title>Learn Hugo Blox in 10 minutes!</title><link>https://example.com/courses/hugo-blox/</link><pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate><guid>https://example.com/courses/hugo-blox/</guid><description>&lt;p&gt;👋 Welcome to your shiny new site. Ready to learn more?&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo Blox |</title><link>https://chuwenxu.github.io/academic-cv/public/tags/hugo-blox/</link><atom:link href="https://chuwenxu.github.io/academic-cv/public/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml"/><description>Hugo Blox</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 Sep 2025 00:00:00 +0000</lastBuildDate><image><url>https://chuwenxu.github.io/academic-cv/public/media/icon_hu_eee4a95885829ab2.png</url><title>Hugo Blox</title><link>https://chuwenxu.github.io/academic-cv/public/tags/hugo-blox/</link></image><item><title>Learn Hugo Blox in 10 minutes!</title><link>https://chuwenxu.github.io/academic-cv/public/courses/hugo-blox/</link><pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate><guid>https://chuwenxu.github.io/academic-cv/public/courses/hugo-blox/</guid><description>&lt;p&gt;👋 Welcome to your shiny new site. Ready to learn more?&lt;/p&gt;
 &lt;p&gt;This course provides a brief introduction to creating and editing your site with Hugo Blox. For full documentation, refer to the
 .&lt;/p&gt;
 &lt;h2 id="next"&gt;Next&lt;/h2&gt;
@@ -7,7 +7,7 @@
 class="hb-card group"href="getting-started" &gt;
 &lt;span class="hb-card-title pt-4 px-4"&gt;
 &lt;svg style="height: 1em; width: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/&gt;&lt;/svg&gt;Get Started&lt;/span&gt;&lt;div class="hb-card-subtitle"&gt;Setup your new site in just 5 minutes!&lt;/div&gt;&lt;/a&gt;
-&lt;/div&gt;</description></item><item><title>⚡️ Turn Jupyter Notebooks into Blog Posts</title><link>https://example.com/blog/notebook-onboarding/</link><pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate><guid>https://example.com/blog/notebook-onboarding/</guid><description>&lt;p&gt;As a researcher or data scientist, your work often lives in Jupyter Notebooks. But sharing those insights effectively usually means taking screenshots, messy copy-pasting, or exporting to PDF.&lt;/p&gt;
+&lt;/div&gt;</description></item><item><title>⚡️ Turn Jupyter Notebooks into Blog Posts</title><link>https://chuwenxu.github.io/academic-cv/public/blog/notebook-onboarding/</link><pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate><guid>https://chuwenxu.github.io/academic-cv/public/blog/notebook-onboarding/</guid><description>&lt;p&gt;As a researcher or data scientist, your work often lives in Jupyter Notebooks. But sharing those insights effectively usually means taking screenshots, messy copy-pasting, or exporting to PDF.&lt;/p&gt;
 &lt;p&gt;Hugo Blox changes that. With the &lt;code&gt;{{&amp;lt; notebook &amp;gt;}}&lt;/code&gt; shortcode, you can render your actual &lt;code&gt;.ipynb&lt;/code&gt; files directly as beautiful, interactive blog posts or project pages. Keep your code, outputs, and narrative in one place.&lt;/p&gt;
 &lt;details class="print:hidden xl:hidden" open&gt;
 &lt;summary&gt;Table of Contents&lt;/summary&gt;
@@ -48,7 +48,7 @@ data-callout-metadata=""&gt;
 &lt;p class="hb-notebook-title"&gt;Launch Readiness Analysis&lt;/p&gt;
 &lt;p class="hb-notebook-subtitle"&gt;Python · Kernel: Python 3 · nbformat 4.5 · 6 cells&lt;/p&gt;
 &lt;/div&gt;
-&lt;a class="hb-notebook-download" href="https://example.com/blog/notebook-onboarding/hugoblox-onboarding.ipynb" download&gt;
+&lt;a class="hb-notebook-download" href="https://chuwenxu.github.io/academic-cv/public/blog/notebook-onboarding/hugoblox-onboarding.ipynb" download&gt;
 &lt;svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3 16.5v2.25A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75V16.5M16.5 12L12 16.5m0 0L7.5 12m4.5 4.5V3"/&gt;&lt;/svg&gt;
 &lt;span&gt;Download notebook&lt;/span&gt;
 &lt;/a&gt;
@@ -221,7 +221,7 @@ data-callout-metadata=""&gt;
 or check the
 .&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Happy researching! 🚀&lt;/p&gt;</description></item><item><title>🎉 Easily create your own simple yet highly customizable blog</title><link>https://example.com/blog/get-started/</link><pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate><guid>https://example.com/blog/get-started/</guid><description>&lt;p&gt;Welcome 👋&lt;/p&gt;
+&lt;p&gt;Happy researching! 🚀&lt;/p&gt;</description></item><item><title>🎉 Easily create your own simple yet highly customizable blog</title><link>https://chuwenxu.github.io/academic-cv/public/blog/get-started/</link><pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate><guid>https://chuwenxu.github.io/academic-cv/public/blog/get-started/</guid><description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 &lt;details class="print:hidden xl:hidden" open&gt;
 &lt;summary&gt;Table of Contents&lt;/summary&gt;
 &lt;div class="text-sm"&gt;
@@ -359,7 +359,7 @@ data-callout-metadata=""&gt;
 for your site. Themes are fully customizable.&lt;/p&gt;
 &lt;h2 id="license"&gt;License&lt;/h2&gt;
 &lt;p&gt;Released under the
-license.&lt;/p&gt;</description></item><item><title>📈 Communicate your results effectively with the best data visualizations</title><link>https://example.com/blog/data-visualization/</link><pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate><guid>https://example.com/blog/data-visualization/</guid><description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
+license.&lt;/p&gt;</description></item><item><title>📈 Communicate your results effectively with the best data visualizations</title><link>https://chuwenxu.github.io/academic-cv/public/blog/data-visualization/</link><pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate><guid>https://chuwenxu.github.io/academic-cv/public/blog/data-visualization/</guid><description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
 &lt;h2 id="embed-rich-content"&gt;Embed Rich Content&lt;/h2&gt;
 &lt;p&gt;HuggingFace Model&lt;/p&gt;
@@ -377,7 +377,7 @@ license.&lt;/p&gt;</description></item><item><title>📈 Communicate your result
 &lt;div class="flex items-center gap-2 mt-1"&gt;
 &lt;span class="inline-block w-2 h-2 rounded-full bg-secondary-500"&gt;&lt;/span&gt;
 &lt;span class="text-sm text-zinc-600 dark:text-zinc-400 capitalize"&gt;
-model
+sentence-similarity
 &lt;/span&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="flex-shrink-0"&gt;
@@ -387,6 +387,9 @@ model
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="p-6 space-y-4"&gt;
+&lt;div class="flex items-center gap-6 pt-2"&gt;&lt;div class="flex items-center gap-1.5 text-sm text-zinc-600 dark:text-zinc-400"&gt;
+&lt;svg class="w-4 h-4 text-primary-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3 16.5v2.25A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75V16.5M16.5 12L12 16.5m0 0L7.5 12m4.5 4.5V3"/&gt;&lt;/svg&gt;&lt;span id="hb-hb-embed-7aa30c396b2f58a7972cf6a10cb190b4-downloads"&gt;1.608112M&lt;/span&gt;&lt;/div&gt;&lt;div class="flex items-center gap-1.5 text-sm text-zinc-600 dark:text-zinc-400"&gt;
+&lt;svg class="w-4 h-4 text-secondary-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M21 8.25c0-2.485-2.099-4.5-4.687-4.5c-1.936 0-3.598 1.126-4.313 2.733c-.715-1.607-2.377-2.733-4.312-2.733C5.098 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12"/&gt;&lt;/svg&gt;&lt;span id="hb-hb-embed-7aa30c396b2f58a7972cf6a10cb190b4-likes"&gt;1.772k&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="absolute inset-0 pointer-events-none bg-gradient-to-r from-primary-500/0 via-primary-500/5 to-secondary-500/0 opacity-0 group-hover:opacity-100 transition-opacity duration-300"&gt;&lt;/div&gt;
 &lt;div class="sr-only" data-hb-component="embed" data-hb-version="1.0" data-hb-license="MIT"&gt;
@@ -403,7 +406,7 @@ Powered by Hugo Blox Kit - https://github.com/HugoBlox/kit
 &lt;/div&gt;
 &lt;div class="flex-1 min-w-0"&gt;
 &lt;h3 id="hb-embed-title-hb-embed-68953fac599af64cedc452bf8ee23f8c" class="text-xl font-bold tracking-tight leading-tight truncate"&gt;
-&lt;a href="https://huggingface.co/datasets/fka/awesome-chatgpt-prompts" target="_blank" rel="noopener" class="text-zinc-900 dark:text-zinc-100 hover:text-primary-600 dark:hover:text-primary-400 hover:underline transition-colors duration-200"&gt;fka/awesome-chatgpt-prompts&lt;/a&gt;
+&lt;a href="https://huggingface.co/datasets/fka/awesome-chatgpt-prompts" target="_blank" rel="noopener" class="text-zinc-900 dark:text-zinc-100 hover:text-primary-600 dark:hover:text-primary-400 hover:underline transition-colors duration-200"&gt;fka/prompts.chat&lt;/a&gt;
 &lt;/h3&gt;
 &lt;div class="flex items-center gap-2 mt-1"&gt;
 &lt;span class="inline-block w-2 h-2 rounded-full bg-primary-500"&gt;&lt;/span&gt;
@@ -418,6 +421,14 @@ dataset
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="p-6 space-y-4"&gt;
+&lt;p class="text-zinc-600 dark:text-zinc-400 text-base leading-relaxed line-clamp-3"&gt;
+a.k.a. Awesome ChatGPT Prompts
+This is a Dataset Repository mirror of prompts.chat — a social platform for AI prompts.
+📢 Notice
+This Hugging Face dataset is a mirror. For the …
+&lt;/p&gt;&lt;div class="flex items-center gap-6 pt-2"&gt;&lt;div class="flex items-center gap-1.5 text-sm text-zinc-600 dark:text-zinc-400"&gt;
+&lt;svg class="w-4 h-4 text-primary-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3 16.5v2.25A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75V16.5M16.5 12L12 16.5m0 0L7.5 12m4.5 4.5V3"/&gt;&lt;/svg&gt;&lt;span id="hb-hb-embed-68953fac599af64cedc452bf8ee23f8c-downloads"&gt;35.965k&lt;/span&gt;&lt;/div&gt;&lt;div class="flex items-center gap-1.5 text-sm text-zinc-600 dark:text-zinc-400"&gt;
+&lt;svg class="w-4 h-4 text-secondary-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M21 8.25c0-2.485-2.099-4.5-4.687-4.5c-1.936 0-3.598 1.126-4.313 2.733c-.715-1.607-2.377-2.733-4.312-2.733C5.098 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12"/&gt;&lt;/svg&gt;&lt;span id="hb-hb-embed-68953fac599af64cedc452bf8ee23f8c-likes"&gt;9.758k&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="absolute inset-0 pointer-events-none bg-gradient-to-r from-primary-500/0 via-primary-500/5 to-secondary-500/0 opacity-0 group-hover:opacity-100 transition-opacity duration-300"&gt;&lt;/div&gt;
 &lt;div class="sr-only" data-hb-component="embed" data-hb-version="1.0" data-hb-license="MIT"&gt;
@@ -525,9 +536,9 @@ Powered by Hugo Blox Kit - https://github.com/HugoBlox/kit
 &lt;div class="p-6 space-y-4"&gt;
 &lt;div class="mb-4 overflow-hidden rounded-lg"&gt;
 &lt;img class="w-full h-auto transition-transform duration-500 ease-out group-hover:scale-105"
-srcset="https://example.com/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_f72c1a452bb0d2c4.webp 400w, https://example.com/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_14b967f8dcd8fdbf.webp 600w, https://example.com/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_cdf04663de998782.webp 800w, https://example.com/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_bacc01c61b554a54.webp 800w"
+srcset="https://chuwenxu.github.io/academic-cv/public/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_f72c1a452bb0d2c4.webp 400w, https://chuwenxu.github.io/academic-cv/public/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_14b967f8dcd8fdbf.webp 600w, https://chuwenxu.github.io/academic-cv/public/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_cdf04663de998782.webp 800w, https://chuwenxu.github.io/academic-cv/public/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_bacc01c61b554a54.webp 800w"
 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-src="https://example.com/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_f72c1a452bb0d2c4.webp"
+src="https://chuwenxu.github.io/academic-cv/public/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_f72c1a452bb0d2c4.webp"
 width="400"
 height="300"
 loading="lazy"
@@ -571,9 +582,9 @@ Powered by Hugo Blox Kit - https://github.com/HugoBlox/kit
 &lt;div class="p-6 space-y-4"&gt;
 &lt;div class="mb-4 overflow-hidden rounded-lg"&gt;
 &lt;img class="w-full h-auto transition-transform duration-500 ease-out group-hover:scale-105"
-srcset="https://example.com/photo-1551288049-bebda4e38f71_10164962980614054447_hu_1cb16cc410ea26a3.webp 400w, https://example.com/photo-1551288049-bebda4e38f71_10164962980614054447_hu_18bb0a620d059556.webp 600w, https://example.com/photo-1551288049-bebda4e38f71_10164962980614054447_hu_d3041625e7a27dbb.webp 600w"
+srcset="https://chuwenxu.github.io/academic-cv/public/photo-1551288049-bebda4e38f71_10164962980614054447_hu_1cb16cc410ea26a3.webp 400w, https://chuwenxu.github.io/academic-cv/public/photo-1551288049-bebda4e38f71_10164962980614054447_hu_18bb0a620d059556.webp 600w, https://chuwenxu.github.io/academic-cv/public/photo-1551288049-bebda4e38f71_10164962980614054447_hu_d3041625e7a27dbb.webp 600w"
 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-src="https://example.com/photo-1551288049-bebda4e38f71_10164962980614054447_hu_1cb16cc410ea26a3.webp"
+src="https://chuwenxu.github.io/academic-cv/public/photo-1551288049-bebda4e38f71_10164962980614054447_hu_1cb16cc410ea26a3.webp"
 width="400"
 height="267"
 loading="lazy"
@@ -604,7 +615,7 @@ Powered by Hugo Blox Kit - https://github.com/HugoBlox/kit
 format for interactive data visualizations. With Plotly, you can design almost any kind of visualization you can imagine!&lt;/p&gt;
 &lt;p&gt;Save your Plotly JSON in your page folder, for example &lt;code&gt;line-chart.json&lt;/code&gt;, and then add the &lt;code&gt;{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code&gt; shortcode where you would like the chart to appear.&lt;/p&gt;
 &lt;p&gt;Demo:&lt;/p&gt;
-&lt;div id="chart-165982374" class="chart"&gt;&lt;/div&gt;
+&lt;div id="chart-873265419" class="chart"&gt;&lt;/div&gt;
 &lt;script&gt;
 (function() {
 async function fetchChartJSON() {
@@ -620,7 +631,7 @@ return;
 clearInterval( a );
 fetchChartJSON().then(chart =&gt; {
 console.debug('Plotting chart...')
-window.Plotly.newPlot('chart-165982374', chart.data, chart.layout, {responsive: true});
+window.Plotly.newPlot('chart-873265419', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
@@ -753,7 +764,7 @@ Crash --&gt; [*]
 &lt;div class="text-left"&gt;
 &lt;a
 id="button-f6d402d3e0ef4f7871a71f74ddcbf5cc"
-href="https://example.com/"
+href="https://chuwenxu.github.io/academic-cv/public/"
 class="inline-flex items-center gap-2 font-medium no-underline transition-all duration-300 ease-out transform-gpu focus:outline-none focus:ring-4 focus:ring-offset-2 focus:ring-offset-white dark:focus:ring-offset-zinc-900 disabled:opacity-50 disabled:cursor-not-allowed disabled:pointer-events-none bg-gradient-to-br from-primary-500 to-primary-600 hover:from-primary-600 hover:to-primary-700 active:from-primary-700 active:to-primary-800 text-white shadow-lg shadow-primary-500/25 hover:shadow-xl hover:shadow-primary-500/30 hover:-translate-y-0.5 hover:scale-[1.02] active:scale-[0.98] focus:ring-primary-500/50 px-4 py-2 text-base rounded-lg"
 role="button"
 aria-label="Contact Us"
@@ -797,7 +808,7 @@ aria-label="View Dashboard"
 &lt;div class="text-left"&gt;
 &lt;a
 id="button-73171eb1b49c461e90dab01f45a3397d"
-href="https://example.com/data/results.csv"
+href="https://chuwenxu.github.io/academic-cv/public/data/results.csv"
 class="inline-flex items-center gap-2 font-medium no-underline transition-all duration-300 ease-out transform-gpu focus:outline-none focus:ring-4 focus:ring-offset-2 focus:ring-offset-white dark:focus:ring-offset-zinc-900 disabled:opacity-50 disabled:cursor-not-allowed disabled:pointer-events-none bg-white dark:bg-zinc-900 border-2 border-primary-500 text-primary-600 dark:text-primary-400 hover:bg-primary-50 dark:hover:bg-primary-950/50 hover:border-primary-600 active:bg-primary-100 dark:active:bg-primary-950 shadow-md hover:shadow-lg hover:scale-105 active:scale-95 focus:ring-primary-500/50 px-4 py-2 text-base rounded-lg"
 role="button"
 aria-label="Download Data"
@@ -864,7 +875,7 @@ aria-label="Open in Colab"
 &lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-go-html-template" data-lang="go-html-template"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="cp"&gt;{{&lt;/span&gt;&lt;span class="err"&gt;&amp;lt;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;button&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;url&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#34;https://jupyter.org/&amp;#34;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;new_tab&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#34;true&amp;#34;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;style&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#34;secondary&amp;#34;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;rounded&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#34;full&amp;#34;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;align&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#34;center&amp;#34;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;&amp;gt;&lt;/span&gt;&lt;span class="cp"&gt;}}&lt;/span&gt;Try Jupyter&lt;span class="cp"&gt;{{&lt;/span&gt;&lt;span class="err"&gt;&amp;lt;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;/&lt;/span&gt;&lt;span class="nx"&gt;button&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;&amp;gt;&lt;/span&gt;&lt;span class="cp"&gt;}}&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="cp"&gt;{{&lt;/span&gt;&lt;span class="err"&gt;&amp;lt;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;button&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;url&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#34;https://colab.research.google.com/&amp;#34;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;new_tab&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#34;true&amp;#34;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;style&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#34;primary&amp;#34;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;rounded&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#34;full&amp;#34;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;align&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#34;center&amp;#34;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;icon&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#34;rocket-launch&amp;#34;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;&amp;gt;&lt;/span&gt;&lt;span class="cp"&gt;}}&lt;/span&gt;Open in Colab&lt;span class="cp"&gt;{{&lt;/span&gt;&lt;span class="err"&gt;&amp;lt;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;/&lt;/span&gt;&lt;span class="nx"&gt;button&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;&amp;gt;&lt;/span&gt;&lt;span class="cp"&gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id="did-you-find-this-page-helpful-consider-sharing-it-"&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;</description></item><item><title>✅ Manage your projects</title><link>https://example.com/blog/project-management/</link><pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate><guid>https://example.com/blog/project-management/</guid><description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id="did-you-find-this-page-helpful-consider-sharing-it-"&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;</description></item><item><title>✅ Manage your projects</title><link>https://chuwenxu.github.io/academic-cv/public/blog/project-management/</link><pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate><guid>https://chuwenxu.github.io/academic-cv/public/blog/project-management/</guid><description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id="ideation"&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
 &lt;p&gt;Simply insert a Markdown code block labelled as &lt;code&gt;markmap&lt;/code&gt; and optionally set the height of the mindmap as shown in the example below.&lt;/p&gt;
