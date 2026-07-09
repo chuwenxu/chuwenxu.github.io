@@ -1,2 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Activities |</title><link>https://chuwenxu.github.io/academic-cv/public/activities/</link><atom:link href="https://chuwenxu.github.io/academic-cv/public/activities/index.xml" rel="self" type="application/rss+xml"/><description>Activities</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jul 2026 00:00:00 +0000</lastBuildDate><image><url>https://chuwenxu.github.io/academic-cv/public/media/icon_hu_eee4a95885829ab2.png</url><title>Activities</title><link>https://chuwenxu.github.io/academic-cv/public/activities/</link></image><item><title>Concertmaster &amp; Principal Violinist</title><link>https://chuwenxu.github.io/academic-cv/public/activities/concertmaster-and-principal-violinist/</link><pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate><guid>https://chuwenxu.github.io/academic-cv/public/activities/concertmaster-and-principal-violinist/</guid><description>&lt;p&gt;Music is my ultimate escape and energy source outside the lab! I joined the WHU Symphony Orchestra as a section member in 2024, worked my way up to Principal Second Violinist in 2025, and had the absolute honor of being selected as the &lt;strong&gt;Concertmaster&lt;/strong&gt; in 2026. Leading a 100-piece orchestra, tuning the ensemble before a grand concert, and collaborating with the conductor have been the most rewarding experiences of my college life—teaching me so much about leadership, deep listening, and teamwork.&lt;/p&gt;</description></item><item><title>Alto Section Member</title><link>https://chuwenxu.github.io/academic-cv/public/activities/alto-section-member/</link><pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate><guid>https://chuwenxu.github.io/academic-cv/public/activities/alto-section-member/</guid><description>&lt;p&gt;If playing the violin is about precision, singing in a choir is all about listening. As an alto section member in the &amp;ldquo;Haiyan&amp;rdquo; Youth Choir, I get to immerse myself in the beautiful world of multi-part harmony. Surviving our rigorous weekly vocal training and standing on stage for large-scale concerts has been an incredible journey. It’s taught me how to perfectly blend my voice with others to create something bigger than myself—the ultimate lesson in true collaboration.&lt;/p&gt;</description></item><item><title>Middle Blocker &amp; Championship Team Member</title><link>https://chuwenxu.github.io/academic-cv/public/activities/middle-blocker/</link><pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate><guid>https://chuwenxu.github.io/academic-cv/public/activities/middle-blocker/</guid><description>&lt;p&gt;When I’m not coding or solving math problems, you can probably find me on the volleyball court. As a middle blocker for our math school&amp;rsquo;s team, I love the high-adrenaline rush of executing quick attacks and shutting down opponents with solid blocks. The absolute highlight of 2026 was fighting alongside my amazing teammates to win the prestigious &lt;strong&gt;&amp;ldquo;Torch Cup&amp;rdquo; University Championship&lt;/strong&gt;! Volleyball has taught me the true meaning of resilience—never letting the ball drop, and always trusting your team.&lt;/p&gt;</description></item><item><title>Mathematical Modeling Enthusiast</title><link>https://chuwenxu.github.io/academic-cv/public/activities/mathematical-modeling/</link><pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate><guid>https://chuwenxu.github.io/academic-cv/public/activities/mathematical-modeling/</guid><description>&lt;p&gt;I love turning complex, messy real-world problems into elegant mathematical equations! My journey through mathematical modeling has been an absolute thriller. In the &lt;strong&gt;2026 International MCM/ICM&lt;/strong&gt;, my team won the &lt;strong&gt;Honorable Mention (Top 15-20% globally)&lt;/strong&gt; by building optimization and simulation models to design a space logistics network for lunar immigration.&lt;/p&gt;
-&lt;p&gt;Beyond that, diving into the intensive &lt;strong&gt;National Mathematical Contest in Modeling (CUMCM)&lt;/strong&gt; and the regional &lt;strong&gt;&amp;ldquo;Central China Cup&amp;rdquo; (Huazhongbei)&lt;/strong&gt; pushed my coding and data-crunching skills to their limits. These 3-to-4-day hackathon-style sprints have been the ultimate test of resilience—teaching me how to stay calm under pressure, ideate under tight deadlines, and, most importantly, embrace the crazy fun of late-night brainstorming!&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Activities | </title>
+    <link>http://localhost:1313/activities/</link>
+      <atom:link href="http://localhost:1313/activities/index.xml" rel="self" type="application/rss+xml" />
+    <description>Activities</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_eee4a95885829ab2.png</url>
+      <title>Activities</title>
+      <link>http://localhost:1313/activities/</link>
+    </image>
+    
+    <item>
+      <title>Concertmaster &amp; Principal Violinist</title>
+      <link>http://localhost:1313/activities/concertmaster-and-principal-violinist/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activities/concertmaster-and-principal-violinist/</guid>
+      <description>&lt;p&gt;Music is my ultimate escape and energy source outside the lab! I joined the WHU Symphony Orchestra as a section member in 2024, worked my way up to Principal Second Violinist in 2025, and had the absolute honor of being selected as the &lt;strong&gt;Concertmaster&lt;/strong&gt; in 2026. Leading a 100-piece orchestra, tuning the ensemble before a grand concert, and collaborating with the conductor have been the most rewarding experiences of my college life—teaching me so much about leadership, deep listening, and teamwork.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Alto Section Member</title>
+      <link>http://localhost:1313/activities/alto-section-member/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activities/alto-section-member/</guid>
+      <description>&lt;p&gt;If playing the violin is about precision, singing in a choir is all about listening. As an alto section member in the &amp;ldquo;Haiyan&amp;rdquo; Youth Choir, I get to immerse myself in the beautiful world of multi-part harmony. Surviving our rigorous weekly vocal training and standing on stage for large-scale concerts has been an incredible journey. It’s taught me how to perfectly blend my voice with others to create something bigger than myself—the ultimate lesson in true collaboration.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Middle Blocker &amp; Championship Team Member</title>
+      <link>http://localhost:1313/activities/middle-blocker/</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activities/middle-blocker/</guid>
+      <description>&lt;p&gt;When I’m not coding or solving math problems, you can probably find me on the volleyball court. As a middle blocker for our math school&amp;rsquo;s team, I love the high-adrenaline rush of executing quick attacks and shutting down opponents with solid blocks. The absolute highlight of 2026 was fighting alongside my amazing teammates to win the prestigious &lt;strong&gt;&amp;ldquo;Torch Cup&amp;rdquo; University Championship&lt;/strong&gt;! Volleyball has taught me the true meaning of resilience—never letting the ball drop, and always trusting your team.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mathematical Modeling Enthusiast</title>
+      <link>http://localhost:1313/activities/mathematical-modeling/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activities/mathematical-modeling/</guid>
+      <description>&lt;p&gt;I love turning complex, messy real-world problems into elegant mathematical equations! My journey through mathematical modeling has been an absolute thriller. In the &lt;strong&gt;2026 International MCM/ICM&lt;/strong&gt;, my team won the &lt;strong&gt;Honorable Mention (Top 15-20% globally)&lt;/strong&gt; by building optimization and simulation models to design a space logistics network for lunar immigration.&lt;/p&gt;
+&lt;p&gt;Beyond that, diving into the intensive &lt;strong&gt;National Mathematical Contest in Modeling (CUMCM)&lt;/strong&gt; and the regional &lt;strong&gt;&amp;ldquo;Central China Cup&amp;rdquo; (Huazhongbei)&lt;/strong&gt; pushed my coding and data-crunching skills to their limits. These 3-to-4-day hackathon-style sprints have been the ultimate test of resilience—teaching me how to stay calm under pressure, ideate under tight deadlines, and, most importantly, embrace the crazy fun of late-night brainstorming!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

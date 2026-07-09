@@ -1,1 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Transcriptomics |</title><link>https://chuwenxu.github.io/academic-cv/public/tags/transcriptomics/</link><atom:link href="https://chuwenxu.github.io/academic-cv/public/tags/transcriptomics/index.xml" rel="self" type="application/rss+xml"/><description>Transcriptomics</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate><image><url>https://chuwenxu.github.io/academic-cv/public/media/icon_hu_eee4a95885829ab2.png</url><title>Transcriptomics</title><link>https://chuwenxu.github.io/academic-cv/public/tags/transcriptomics/</link></image><item><title>Deciphering Transcriptome Complexity via Long-read Sequencing</title><link>https://chuwenxu.github.io/academic-cv/public/publications/preprint/</link><pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate><guid>https://chuwenxu.github.io/academic-cv/public/publications/preprint/</guid><description>&lt;p&gt;Bridging theoretical transcriptomics with hands-on bioinformatic tool analysis, I took the lead in conceptualizing this review. I synthesized the technical landscape, drafted core sections, and coordinated the manuscript integration across all co-authors.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Transcriptomics | </title>
+    <link>http://localhost:1313/tags/transcriptomics/</link>
+      <atom:link href="http://localhost:1313/tags/transcriptomics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Transcriptomics</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_eee4a95885829ab2.png</url>
+      <title>Transcriptomics</title>
+      <link>http://localhost:1313/tags/transcriptomics/</link>
+    </image>
+    
+    <item>
+      <title>Deciphering Transcriptome Complexity via Long-read Sequencing</title>
+      <link>http://localhost:1313/publications/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/preprint/</guid>
+      <description>&lt;p&gt;Bridging theoretical transcriptomics with hands-on bioinformatic tool analysis, I took the lead in conceptualizing this review. I synthesized the technical landscape, drafted core sections, and coordinated the manuscript integration across all co-authors.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
