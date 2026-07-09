@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#0f172a"/>
+  <rect x="70" y="70" width="1060" height="660" rx="32" fill="#111827" stroke="#38bdf8" stroke-width="6"/>
+  <circle cx="310" cy="320" r="120" fill="#38bdf8" opacity="0.2"/>
+  <circle cx="900" cy="470" r="150" fill="#8b5cf6" opacity="0.2"/>
+  <text x="600" y="360" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700" fill="#f8fafc">Chuwen Xu</text>
+  <text x="600" y="430" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="32" fill="#cbd5e1">Academic Activities</text>
+  <text x="600" y="500" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#94a3b8">Research • Music • Sports • Community</text>
+</svg>
