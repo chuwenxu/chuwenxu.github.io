@@ -1,0 +1,92 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Chuwen Xu
+  given: Xu
+  family: Chuwen
+  alternate: '徐楚雯'  # Example: 王伟
+  pronunciation: ''  # Example: Wáng Wěi
+  pronouns: she/her
+postnominals: []
+status:
+  icon: "🧬"
+role: Undergraduate Student
+bio: |
+  Chuwen Xu is an undergraduate student in the School of Mathematics and Statistics at Wuhan University. 
+  Her research focuses on bioinformatics, particularly transcriptomics and computational biology. 
+  She is interested in developing novel computational methods and deep learning approaches for large-scale omics data analysis,
+  aiming to advance biological discovery through data-driven research.
+
+affiliations:
+  - name: School of Mathematics and Statistics, Wuhan University
+    url: https://maths.whu.edu.cn/
+
+links:
+  - icon: at-symbol
+    url: mailto:chuwenxu@whu.edu.cn
+    label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/chuwenxu
+  - icon: academicons/orcid
+    url: https://orcid.org/0009-0002-3403-2695
+
+interests:
+  - Computational Biology
+  - Machine Learning 
+  - Large Language Models 
+  - Transcriptomics
+
+
+experience:
+  - role: Research Assistant
+    org: Dr. Dingjie Wang's Lab, Institute for Math & AI, Wuhan
+    start: 2026-05-15
+    summary: |
+      Contributed to the mathematical formulation and algorithm design of a multi-platform transcript quantification framework.
+      Spearheaded large-scale bioinformatic data analysis, experimental validation, and statistical evaluation.
+      Utilized linear algebra and statistical frameworks to systematically investigate transcript and gene identifiability, directly assessing its impact on quantification accuracy.
+
+  - role: Research Assistant
+    org: Dr. Dingjie Wang's Lab, Institute for Math & AI, Wuhan
+    start: 2026-01-18
+    summary: |
+      Served as the project lead and coordinator for a comprehensive review on long-read transcriptomics.
+      Coordinated a team of four co-first authors to streamline overarching scientific logic and maintain project timelines.
+      Drafted ~7,000 words of the manuscript and designed 5 core conceptual figures.
+      Evaluated bioinformatic tools by diving into their underlying mathematical principles and algorithmic taxonomy,
+      bridging theoretical foundations with practical application-driven performance differences.
+skills:
+  - name: Technical Skills
+    items:
+      - label: Python
+        level: 4
+      - label: LaTeX
+        level: 5
+      - label: R
+        level: 3
+  - name: Research & Communication
+    items:
+      - label: Academic Writing
+        level: 5
+      - label: Conference Presentations
+        level: 4
+      - label: Grant Proposals
+        level: 4
+
+awards:
+  - title: National Scholarship for Undergraduates
+    awarder: Ministry of Education of China
+    date: "2025-12-01"
+    summary: The highest academic honor awarded to top-tier undergraduate students for exceptional academic excellence and well-rounded capabilities.
+    icon: hero/trophy
+  - title: First-Class Scholarship for Academic Excellence
+    awarder: Wuhan University
+    date: "2025-12-01"
+    summary: Awarded to the top 5% of students in the School of Mathematics and Statistics for outstanding academic performance.
+    icon: hero/academic-cap
+  - title: Honor of Outstanding Student (Sanhao Student)
+    awarder: Wuhan University
+    date: "2025-12-01"
+    summary: Conferred in recognition of well-rounded capabilities, exemplary conduct, and comprehensive personal development.
+    icon: hero/user-group
