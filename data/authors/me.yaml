@@ -34,13 +34,13 @@ links:
 interests:
   - Computational Biology
   - Machine Learning 
-  - Large Language Models 
+  - Deep Learning
   - Transcriptomics
 
 
 experience:
   - role: Research Assistant
-    org: Dr. Dingjie Wang's Lab, Institute for Math & AI, Wuhan
+    org: Professor Xiufen Zou's group, supervised by Dr. Dingjie Wang, School of Mathematics and Statistics, Wuhan University
     start: 2026-05-15
     summary: |
       Contributed to the mathematical formulation and algorithm design of a multi-platform transcript quantification framework.
@@ -48,7 +48,7 @@ experience:
       Utilized linear algebra and statistical frameworks to systematically investigate transcript and gene identifiability, directly assessing its impact on quantification accuracy.
 
   - role: Research Assistant
-    org: Dr. Dingjie Wang's Lab, Institute for Math & AI, Wuhan
+    org: Professor Xiufen Zou's group, supervised by Dr. Dingjie Wang, School of Mathematics and Statistics, Wuhan University
     start: 2026-01-18
     summary: |
       Served as the project lead and coordinator for a comprehensive review on long-read transcriptomics.

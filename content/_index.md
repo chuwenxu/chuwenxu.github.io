@@ -14,7 +14,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/Chuwen_Xu_CV.pdf
       headings:
         about: 'Personal Statement'
         education: ''
@@ -43,7 +43,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 1
   - block: resume-awards
     id: honors
     content:
