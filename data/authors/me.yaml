@@ -44,8 +44,8 @@ experience:
     start: 2026-05-15
     summary: |
       Contributed to the mathematical formulation and algorithm design of a multi-platform transcript quantification framework.
-      Spearheaded large-scale bioinformatic data analysis, experimental validation, and statistical evaluation.
-      Utilized linear algebra and statistical frameworks to systematically investigate transcript and gene identifiability, directly assessing its impact on quantification accuracy.
+      Conducted large-scale bioinformatic data analysis, simulation-based evaluation, and statistical assessment.
+      Developed statistical frameworks using linear algebra and probabilistic modeling to characterize transcript and gene identifiability and quantify inference uncertainty.
 
   - role: Research Assistant
     org: Professor Xiufen Zou's group, supervised by Dr. Dingjie Wang, School of Mathematics and Statistics, Wuhan University
